@@ -17,4 +17,4 @@ This tool can be used while performing Infra as well as Web App Pentest.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at 
+Bug reports and pull requests are welcome on GitHub at https://github.com/noobpythonist/pynmap
