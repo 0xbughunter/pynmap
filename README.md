@@ -13,7 +13,7 @@ Need to have nmap and python 2.7 installed in an Ubuntu machine
 ## Usage
 
 Need to trigger the tool by providing sudo permission as few nmap commands executes through higher privileges.
-This tool can be used while performing Infra as well as Web App Pentest.
+This tool can be used while performing scans on an IP Address / a set of IP(s), hence being beneficial for Infra as well as Web App Pentest.
 
 ## Contributing
 
