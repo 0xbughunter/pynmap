@@ -3,7 +3,7 @@
 ## Installation
 
 Clone the repo 
-https://github.com/noobpythonist/pynmap.git
+https://github.com/0xbughunter/pynmap.git
 and install the pip packages available in the requirement.txt file
 
 ## Requirement
