@@ -17,4 +17,4 @@ This tool can be used while performing scans on an IP Address / a set of IP(s), 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/noobpythonist/pynmap
+Bug reports and pull requests are welcome on GitHub at https://github.com/0xbughunter/pynmap
